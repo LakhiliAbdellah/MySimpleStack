@@ -5,7 +5,8 @@ package stackcontrol;
  */
 public class Item {
     /**
-     * ljl.
+     * ljl.  .
+     * exigence.
      */
     private int val;
     /**
