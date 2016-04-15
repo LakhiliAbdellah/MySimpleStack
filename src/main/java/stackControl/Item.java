@@ -1,14 +1,26 @@
-package stackControl;
+package stackcontrol;
 
 /**
  * Created by 21207071 on 24/02/2016.
  */
 public class Item {
+    /**
+     * ljl.
+     */
     private int val;
+    /**
+     * hkjh.
+     */
     private String nom;
 
-    public Item(int i,String n){
-        this.val=i;
-        n=nom;
+    /**
+     * sfgdfh.
+     *
+     * @param i qsfsdf
+     * @param n qdfdsg
+     */
+    public Item(final int i, final String n) {
+        this.val = i;
+        nom = n;
     }
 }
